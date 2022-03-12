@@ -1,21 +1,9 @@
-# unclebigbay-store
+# Unclebigbay-store
 
-_This project was generated with [create-instantsearch-app](https://github.com/algolia/create-instantsearch-app) by [Algolia](https://algolia.com)._
+## InstantSearch Analytics Widgets
 
-## Get started
+Watch Demo: [Here](https://www.youtube.com/watch?v=-fXfh4cwFyA)
 
-To run this project locally, install the dependencies and run the local server:
+Read Article: [here](https://unclebigbay.com/how-to-add-instantsearch-analytics-widgets-in-typesense)
 
-```sh
-npm install
-npm start
-```
-
-Alternatively, you may use [Yarn](https://http://yarnpkg.com/):
-
-```sh
-yarn
-yarn start
-```
-
-Open http://localhost:3000 to see your app.
+![How to Add InstantSearch Analytics Widgets in Typesense](https://user-images.githubusercontent.com/58919619/158019331-e5f502da-8a9a-4364-83d1-84c855c12a43.png)
