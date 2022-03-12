@@ -1,0 +1,79 @@
+body,
+h1 {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+}
+
+img {
+  width: 100%;
+  height: 186px;
+  margin-bottom: 1rem;
+}
+
+.hit-rate {
+  font-size: 0.75rem;
+  background: #fedd4e;
+  border-radius: 50%;
+  padding: 5px;
+  text-align: right;
+  color: #3a4570;
+}
+
+.hit-title {
+  font-size: 0.875rem;
+  margin-top: 1rem;
+  font-weight: 600;
+  height: 100px;
+}
+
+.hit-price {
+  font-size: 14px;
+  margin-top: 1rem;
+}
+
+#searchbox {
+  margin-top: 20px;
+}
+
+.product-stat {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem 0;
+}
+
+.right-product-stat {
+  justify-content: flex-end;
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+}
+
+.right-product-stat {
+  justify-content: flex-end;
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+}
+
+.ais-RefinementList-count {
+  background-color: #fedd4e;
+}
+
+#price-refinement-list,
+#category-refinement-list {
+  text-transform: capitalize;
+}
+
+#price-range-slider {
+  padding-right: 3rem;
+}
+
+.ais-RangeSlider .rheostat-progress,
+.ais-RangeSlider .rheostat-marker {
+  background-color: #fedd4e;
+}

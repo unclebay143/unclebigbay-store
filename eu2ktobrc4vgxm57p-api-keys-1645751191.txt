@@ -1,0 +1,10 @@
+=== Typesense Cloud: eu2ktobrc4vgxm57p ===
+
+Admin API Key:
+tgogsudTzXmk9Ok4o3cdbzzjVVXGRQok
+
+Search Only API Key:
+OXJtGfAV4G2VNHIHatkOHM9CwrtWy2Wk
+
+Nodes:
+- eu2ktobrc4vgxm57p-1.a1.typesense.net [https:443]
